@@ -39,6 +39,7 @@ The solution is based on AWS servless services.
 
 #### ***AWS Lambda***
  - Create Lambda functions
+   - using javascript
  - Attach a role to functions
  - Create custom tests to validate the lamda function
  - Create alias  to functions
